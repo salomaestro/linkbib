@@ -6,6 +6,7 @@ setup(
     packages=["linkbib"],
     author="Christian Salomonsen",
     maintainer="Christian Salomonsen",
+    license="GNU GPLv3",
     install_requires=[
         "pyyaml",
         "sqlitedict",
